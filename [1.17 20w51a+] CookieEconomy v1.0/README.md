@@ -1,6 +1,6 @@
 # CookieEconomy
 
-![Datapack image](https://i.imgur.com/K6gfzCU.png)
+![Datapack image](https://github.com/El-Kavio/CookieEconomy/assets/140896938/7f99a134-4b16-4700-bb9c-6aa80a2d4bb1)
 
 **CookieEconomy** is a **datapack** based around **economy**, meant to make **trading** between players **easier** with just an exchange of **Cookie** money.
 
