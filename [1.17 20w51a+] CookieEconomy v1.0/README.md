@@ -12,3 +12,7 @@ You can see **all** the **mechanics** on the **[wiki](https://github.com/El-Kavi
 ## Note
 
 Let me know if you want this datapack for versions below 1.17 Snapshot 20w51a by **<a href="https://github.com/El-Kavio/CookieEconomy/issues" target="_blank">opening an issue**
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kavio)
