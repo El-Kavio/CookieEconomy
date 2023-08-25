@@ -1,1 +1,0 @@
-scoreboard players set @a Gamble_limit_dummy_CE 0
