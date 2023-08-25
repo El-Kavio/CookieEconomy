@@ -1,7 +1,8 @@
 # CookieEconomy
 
-![Datapack image](https://github.com/El-Kavio/CookieEconomy/assets/140896938/7f99a134-4b16-4700-bb9c-6aa80a2d4bb1)
+<img src="https://github.com/El-Kavio/CookieEconomy/assets/140896938/a6cee2cd-91fa-4b9b-9b37-ca037299da45" alt="CookieEconomy banner" width="50%">
 
+---
 
 **CookieEconomy** is a **datapack** based around **economy**, meant to make **trading** between players **easier** with just an exchange of **Cookie** money.
 
@@ -10,9 +11,9 @@
 The **core mechanics** of this datapack are the **Work** and the **Transaction** mechanics.<br>
 You can see **all** the **mechanics** on the **[wiki](https://github.com/El-Kavio/CookieEconomy/wiki)**.
 
-## Note
+## How to update
 
-Let me know if you want this datapack for versions below 1.18 by **<a href="https://github.com/El-Kavio/CookieEconomy/issues" target="_blank">opening an issue**
+Simply **delete** the **CookieEconomy** folder and **replace** it with the **new** one!
 
 ---
 
