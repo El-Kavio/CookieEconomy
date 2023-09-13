@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": {
+          "min": 50,
+          "max": 450
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
